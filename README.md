@@ -5,8 +5,9 @@ This project is a demonstration level work for a MERN stack development. I inten
 ## How to use
 
 1. Just download the project and go to server folder (first since backend needs to be started before frontend), open terminal and type nodemon index.js
-2. After that go to client folder, open terminal and type npm start
-3. Wait for a bit then you will see the UI for the project on the browser.
+2. After that go to client folder, open terminal and type npm install (as you can see the node_modules is not present in the repository but the dependencies part in package.json is updated with the required modules so you need to manually install them.)
+3. After the installation type npm start.
+4. Wait for a bit then you will see the UI for the project on the browser.
 
 Won't explain how the UI will work since it will be obvious when you see it.
 
